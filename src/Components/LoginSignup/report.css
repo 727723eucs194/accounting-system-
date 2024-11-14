@@ -1,0 +1,81 @@
+/* ./Components/Report/Report.css */
+
+.report-container {
+    padding: 20px;
+    background-color: #f0f0f0; /* Light background */
+    color: #333; /* Darker text color for readability */
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.report-header {
+    text-align: center;
+    color: #0077ff; /* Bright blue for header */
+}
+
+.report-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.2rem;
+}
+
+.report-header p {
+    font-size: 1.2rem;
+    color: #ff007f; /* Neon pink */
+}
+
+.report-content {
+    margin-top: 20px;
+    color: #333; /* Standard dark color for readability */
+}
+
+.report-filters {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.report-filters h2 {
+    color: #009688; /* Vibrant teal for section headings */
+}
+
+.report-filters select, .report-filters button {
+    padding: 10px;
+    font-size: 1rem;
+    margin: 10px 0;
+    background-color: #e0f7fa; /* Light teal background */
+    color: #0077ff;
+    border: 1px solid #0077ff;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.report-filters button:hover {
+    background-color: #0077ff;
+    color: #fff;
+    border: 1px solid #0056b3;
+}
+
+.report-display {
+    border-top: 2px solid #ff007f; /* Neon pink border */
+    padding-top: 20px;
+    color: #333;
+}
+
+.report-display h2 {
+    color: #ff007f;
+}
+
+.report-footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #0077ff;
+}
+
+.report-footer a {
+    color: #ff007f;
+    text-decoration: none;
+}
+
+.report-footer a:hover {
+    color: #009688; /* Vibrant teal on hover */
+}

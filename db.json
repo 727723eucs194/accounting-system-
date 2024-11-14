@@ -1,0 +1,46 @@
+{
+  "User": [
+    {
+      "id": "77df",
+      "name": "Sara",
+      "email": "sara@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "4060",
+      "name": "sara",
+      "email": "sara@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "fc57",
+      "name": "saranish",
+      "email": "saran@gmail.com",
+      "password": "567890"
+    },
+    {
+      "id": "45d5",
+      "name": "roop",
+      "email": "roop@gmail.com",
+      "password": "5678901"
+    },
+    {
+      "id": "1fb5",
+      "name": "Roopchand",
+      "email": "roopchand2005@gmail.com",
+      "password": "9442835909"
+    },
+    {
+      "id": "d6db",
+      "name": "saravanan",
+      "email": "sarav@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2274",
+      "name": "roop",
+      "email": "727723eucs194@skcet.ac.in",
+      "password": "Roopchand@2005"
+    }
+  ]
+}

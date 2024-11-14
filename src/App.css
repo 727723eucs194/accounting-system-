@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 10px;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+  margin-top: 20px;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"] {
+  padding: 8px;
+  margin-left: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #00ff44;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #030e1a7c;
+}
